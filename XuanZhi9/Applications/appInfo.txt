@@ -1,0 +1,1 @@
+[{"appName":"Downloader","appPackage":"com.esaba.downloader","appVersion":"1.5.3-ForGoogleAndroidDevices","appVersionCode":67},{"appName":"Xuper","appPackage":"com.android.mgstv","appVersion":"4.34.4","appVersionCode":43404}]
