@@ -1,0 +1,22 @@
+content{
+  timesIntroVideoPlayed:i=2
+  languageId:i=5
+  speechLanguageId:i=0
+  uniqueId:t="6971A0373948A716"
+  runCount:i=12
+  autologin:b=no
+  agreedEulaVersion:i=13
+  useSteamLoginAuto:b=yes
+
+  gui_options{
+    OPTIONS_MODE_GAMEPLAY{}
+    OPTIONS_MODE_TRAINING{}
+    OPTIONS_MODE_CAMPAIGN{}
+    OPTIONS_MODE_SINGLE_MISSION{}
+    OPTIONS_MODE_DYNAMIC{}
+    OPTIONS_MODE_USER_MISSION{}
+    OPTIONS_MODE_MP_DOMINATION{}
+    OPTIONS_MODE_MP_SKIRMISH{}
+    OPTIONS_MODE_SEARCH{}
+  }
+}
